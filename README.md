@@ -1,16 +1,10 @@
-# auth_app
+# Auth App
 
-A new Flutter project.
+A simple Flutter authentication application featuring user Login, Signup, and a basic Dashboard.
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
+![Login Screen](Forget-psw_page.png)
+![Register Screen](Register_page.png)
+![Login Screen](Login_page.png)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
